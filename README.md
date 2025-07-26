@@ -16,5 +16,6 @@ To create a decentralized, verifiable, and secure learning tracker that empowers
 - Verification layer for institutions to validate completions
 
 ## 5. Contract Address
-**`SPXXXXXX.../learning-dashboard.clar`**  
-(*Replace with deployed address after mainnet or testnet deployment*)
+**ST19WFEV85RKBZQ8409XWPFNK14AT4D09GBS5A9BC.varifier`**  
+
+<img width="1913" height="918" alt="image" src="https://github.com/user-attachments/assets/c25516a2-ecee-4a20-b3c2-738f46ac9393" />
